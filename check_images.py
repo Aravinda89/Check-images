@@ -1,7 +1,7 @@
 def check_missing_files(images):
     """
     Check any file is missing
-    :param images:
+    :param images:List of images paths
     :return:
     """
     for inx, img in enumerate(images):
